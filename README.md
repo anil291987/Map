@@ -244,7 +244,3 @@ Paul Kraft
 ## 📄 License
 
 Map is available under the MIT license. See the LICENSE file for more info.
-
-## Stats
-
-[![Stats](https://repobeats.axiom.co/api/embed/f2fa570e3daa9586ec48ddd7649e948f2f873f39.svg "Repobeats analytics image")](https://github.com/anil291987/Map)
